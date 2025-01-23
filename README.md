@@ -1,2 +1,2 @@
 # Bubbles
-Juego del año 
+Juego del ano 
